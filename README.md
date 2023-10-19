@@ -1,5 +1,5 @@
 # Digital Landscape of Medieval Chant
-Resources for digital corpus analysis of medieval monophonic chant
+A collection of resources and tools for exploring medieval monophonic chants. No claim to completeness; feel free to expand!
 
 
 ## Databases with search function
@@ -15,7 +15,7 @@ Resources for digital corpus analysis of medieval monophonic chant
 * [Chantdigger Corpus](https://github.com/timeipert/chantdigger-restored/blob/master/corpus.txt)
 ## Optical Music Recognition
 * [OMMR4all](https://ommr4all.informatik.uni-wuerzburg.de/) [^12]
-* 
+* [Cantus Ultimus](https://cantus.simssa.ca/) [^17]
 
 ## Transcription Editors
 * [Neon.js](https://neon.simssa.ca/), [On Github](https://github.com/DDMAL/Neon)
@@ -40,3 +40,4 @@ Resources for digital corpus analysis of medieval monophonic chant
 [^14]: Wick, Christoph, and Frank Puppe. "Automatic Neume Transcription of Medieval Music Manuscripts Using CNN/LSTM-Networks and the Segmentation-Free CTC-Algorithm." (2020).
 [^15]: Burlet, Gregory, et al. "Neon. js: Neume Editor Online." ISMIR. 2012.
 [^16]: Hornby, Emma, Rebecca Maloy, and Paul Rouse. "Chant editing and analysis program: a tool for analyzing liturgical chant." Journal of Medieval Iberian Studies 14.1 (2022): 82-95. ([Link](https://www.tandfonline.com/doi/pdf/10.1080/17546559.2021.2023752?casa_token=mX_uzm2ENlsAAAAA:ij5ZEBAWGtU4doCzsAQIm2G5WFfePkAVv1SbhRJobAut8purm2f_Nx5oxFoLnuZ_0K9ZfVK-wKs))
+[^17]: Helsen, Kate, et al. "Optical music recognition and manuscript chant sources." Early Music 42.4 (2014): 555-558.
