@@ -2,12 +2,12 @@
 A collection of resources and tools for exploring medieval monophonic chants. No claim to completeness; feel free to expand!
 
 
-## Databases with search function
+## Databases with pitch notation and search function
 * [Cantus Database](https://cantusdatabase.org/) [^1] [^2] [^3] [^4] [^5]
 * [Corpus Monodicum](https://corpus-monodicum.de/) [^6] [^7]
 * [GregoBase](https://gregobase.selapa.net/) [^8] [^9]
-* [Graduale/Antiphonale Synopticum](http://gregorianik.uni-regensburg.de/). Based on [Omnigreg](http://www.omnigreg.at/)
-* [ChantDigger](https://oralhistoryofchant.ch/) [^10]
+* [Graduale/Antiphonale Synopticum](http://gregorianik.uni-regensburg.de/). Based on [Omnigreg](http://www.omnigreg.at/) 
+* [ChantDigger](https://oralhistoryofchant.ch/) [^10] 
 ## Digital Coropora
 * [CantusCorpus](https://github.com/bacor/cantuscorpus), derived from Cantus Database [^8] [^11]
 * [GregoBaseCorpus](https://github.com/bacor/gregobasecorpus), derived from GregoBase [^8] [^11]
