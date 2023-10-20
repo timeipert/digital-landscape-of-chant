@@ -22,6 +22,15 @@ A collection of resources and tools for exploring medieval monophonic chants. No
 * Monodi+ – not published yet. Don't hesitate to contact me via mail (tim.eipert@uni-wuerzburg.de) for more information.
 * [CEAS](https://neumes.org.uk/view/view/BL45/8042)[^16]
 
+## Python Libraries
+* [Chant21](https://github.com/bacor/chant21) [^8]
+* [MonodiKit](https://github.com/timeipert/MonodiKit)
+
+## Case Studies
+* [Cornelissen et al.: Chant Contour; Differentiae-Antiphon Transition](https://github.com/bacor/DLfM2020) [^8]
+  
+
+
 
 ## Literature
 [^1]: Lacoste, Debra, and Andrew Mitchell. "The cantus database: Progress report." Studia Musicologica Academiae Scientiarum Hungaricae 45.1-2 (2004): 119-130.
