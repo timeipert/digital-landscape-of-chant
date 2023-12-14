@@ -24,10 +24,12 @@ A collection of resources and tools for exploring medieval monophonic chants. No
 
 ## Python Libraries
 * [Chant21](https://github.com/bacor/chant21) [^8]
-* [MonodiKit](https://github.com/timeipert/MonodiKit)
+* [MonodiKit](https://github.com/timeipert/MonodiKit) [^18]
 
 ## Case Studies
 * [Cornelissen et al.: Chant Contour; Differentiae-Antiphon Transition](https://github.com/bacor/DLfM2020) [^8]
+* Nakamura, Eipert, Moss: Historical Changes of Modes and their Substructure [^19]
+* Lanz, Vojtěch; Hajič, Jan. 2023:Text boundaries do not provide a better segmentation of Gregorian antiphons. [^20]
   
 
 
@@ -44,9 +46,12 @@ A collection of resources and tools for exploring medieval monophonic chants. No
 [^9]: Angel, Miguel, and Hernández Benavides. "Exploring the musicalization of texts in gregorian chant using data analytics." (2020).
 [^10]: Haas, Max. Mündliche Überlieferung und altrömischer Choral: historische und analytische computergestützte Untersuchungen. Peter Lang Gmbh, Internationaler Verlag Der Wissenschaften, 1997.
 [^11]: Cornelissen, Bas, Willem H. Zuidema, and John Ashley Burgoyne. "Mode classification and natural units in plainchant." ISMIR. 2020.
+[^19]: Nakamura, Eita; Eipert, Tim; Moss, Fabian C. "Historical changes of modes and their substructure modeled as pitch distributions in plainchant from the 1100s to the 1500s." Proc. 16th International Symposium on Computer Music Multidisciplinary Research (CMMR), pp. 450-461, (November 2023.) ([Link](https://eita-nakamura.github.io/articles/Nakamura_PlainChantAnalysis_CMMR2023.pdf))
+[^20]  Lanz, Vojtěch; Hajič, Jan. 2023. "Text boundaries do not provide a better segmentation of Gregorian antiphons." Proceedings of the 10th International Conference on Digital Libraries for Musicology (DLfM '23). Association for Computing Machinery, New York, NY, USA, 72–76. https://doi.org/10.1145/3625135.3625143 2023.
 [^12]: Wick, Christoph, and Frank Puppe. "OMMR4all-a semiautomatic online editor for medieval music notations." 2nd International workshop on reading music systems. 2019.
 [^13]: Wick, C., and F. Puppe. "Experiments and detailed error-analysis of automatic square notation transcription of medieval music manuscripts using CNN/LSTM-networks and a neume dictionary." Journal of New Music Research 50.1 (2021): 18-36.
-[^14]: Wick, Christoph, and Frank Puppe. "Automatic Neume Transcription of Medieval Music Manuscripts Using CNN/LSTM-Networks and the Segmentation-Free CTC-Algorithm." (2020).
+[^14]: Wick, Christoph, and Frank Puppe. "Automatic Neume Transcription of Medieval Music Manuscripts Using CNN/LSTM-Networks and the Segmentation-Free CTC-Algorithm." 2020.
 [^15]: Burlet, Gregory, et al. "Neon. js: Neume Editor Online." ISMIR. 2012.
-[^16]: Hornby, Emma, Rebecca Maloy, and Paul Rouse. "Chant editing and analysis program: a tool for analyzing liturgical chant." Journal of Medieval Iberian Studies 14.1 (2022): 82-95. ([Link](https://www.tandfonline.com/doi/pdf/10.1080/17546559.2021.2023752?casa_token=mX_uzm2ENlsAAAAA:ij5ZEBAWGtU4doCzsAQIm2G5WFfePkAVv1SbhRJobAut8purm2f_Nx5oxFoLnuZ_0K9ZfVK-wKs))
+[^16]: Hornby, Emma, Rebecca Maloy, and Paul Rouse. "Chant editing and analysis program: a tool for analyzing liturgical chant." Journal of Medieval Iberian Studies 14.1 2022. ([Link](https://www.tandfonline.com/doi/pdf/10.1080/17546559.2021.2023752?casa_token=mX_uzm2ENlsAAAAA:ij5ZEBAWGtU4doCzsAQIm2G5WFfePkAVv1SbhRJobAut8purm2f_Nx5oxFoLnuZ_0K9ZfVK-wKs))
 [^17]: Helsen, Kate, et al. "Optical music recognition and manuscript chant sources." Early Music 42.4 (2014): 555-558.
+[^18] Eipert, Tim, & Moss, Fabian C. "MonodiKit: A data model and toolkit for medieval monophonic chant." Proceedings of the 10th International Conference on Digital Libraries for Musicology (pp. 67-71). 2023, November. ([Link](https://dl.acm.org/doi/pdf/10.1145/3625135.3625145?casa_token=d5kDl2gZuwUAAAAA:HgTVtKJVgqlgE6VY9Nr7TPBk5DHQMo9aGKW_Zc-FqohwszyMCint7y4_v6kBihQfqw3MmaRmVziI)
